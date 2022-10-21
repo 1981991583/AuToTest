@@ -1,0 +1,14 @@
+zzj:
+  corpId: 9999,
+  deviceIp: 192.9.14.249
+  deviceNo: ZZJ001
+  operId : ZZJ001
+  terminalNo: ZZJ001
+
+mysql:
+  charset: utf8
+  database: atmpdb
+  host: 47.99.72.83
+  password: ythl@123
+  user: ythl
+
